@@ -19,9 +19,9 @@
 <td width="50%">
 <h3 align="center">FinWise Angular</h3>
 <div align="center">
-<a href="https://github.com/tu_usuario/FinWise-Angular" target="_blank"><img src="https://via.placeholder.com/400x200.png?text=FinWise+Angular" width="400" alt="FinWise Angular"></a>
+<a href="https://github.com/ChrissLugo/FinWise-Angular.git" target="_blank"><img src="https://via.placeholder.com/400x200.png?text=FinWise+Angular" width="400" alt="FinWise Angular"></a>
 <p>
-<a href="https://github.com/tu_usuario/FinWise-Angular" target="_blank">
+<a href="https://github.com/ChrissLugo/FinWise-Angular.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-008cff?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
@@ -32,9 +32,9 @@
 <td width="50%">
 <h3 align="center">FinWise Spring Boot</h3>
 <div align="center">
-<a href="https://github.com/tu_usuario/FinWise-Spring-Boot" target="_blank"><img src="https://via.placeholder.com/400x200.png?text=FinWise+Spring+Boot" width="400" alt="FinWise Spring Boot"></a>
+<a href="https://github.com/ChrissLugo/FinWise-SpringBoot.git" target="_blank"><img src="https://via.placeholder.com/400x200.png?text=FinWise+Spring+Boot" width="400" alt="FinWise Spring Boot"></a>
 <p>
-<a href="https://github.com/tu_usuario/FinWise-Spring-Boot" target="_blank">
+<a href="https://github.com/ChrissLugo/FinWise-SpringBoot.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-6aae25?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
@@ -49,7 +49,7 @@
 
 <p align="center">
 <a href="https://github.com/tu_usuario">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tu_usuario&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChrissLugo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?ChrissLugo=tu_usuario&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
