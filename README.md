@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Christian Lugo 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://cdn-images-1.medium.com/max/859/1*IRFhWNqusUWbTsB1hQXhrQ.gif">
 
 [//]: # (Enlace para redes sociales futuras)
 
